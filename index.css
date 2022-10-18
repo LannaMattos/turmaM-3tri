@@ -1,5 +1,5 @@
 body {
-    background-color:#1C1C1C;
+    background-color:#e67777;
 }
 
 .texto-principal {
@@ -20,7 +20,7 @@ p {
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 10px dotted salmon;
+    border: 5px dotted salmon;
     float: left;
     position: absolute;
 }
