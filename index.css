@@ -20,7 +20,7 @@ p {
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 5px dotted salmon;
+    border: 10px dotted salmon;
     float: left;
     position: absolute;
 }
